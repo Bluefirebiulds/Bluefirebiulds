@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bluefirebiulds
+- 👋 Hi, This is T Tech
 - 👀 I’m interested in ... STEM
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... All of my big projects
